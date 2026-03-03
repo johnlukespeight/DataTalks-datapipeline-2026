@@ -217,3 +217,8 @@ __marimo__/
 # PostgreSQL data directories
 ny_taxi_postgres_data/
 01-docker-terraform/ny_taxi_postgres_data/
+
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
